@@ -1,0 +1,9 @@
+a basic java code
+
+class basic 
+{
+public void main
+{
+system.out.println("the message");
+}
+}
